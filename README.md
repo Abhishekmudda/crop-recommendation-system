@@ -1,1 +1,3 @@
 # crop-recommendation-system
+The Crop Recommendation System is a machine learning-based tool designed to assist farmers and agricultural professionals in selecting the most suitable crops to cultivate. Utilizing the Naive Bayes algorithm, the system analyzes key soil and environmental parameters, including nitrogen (N), phosphorus (P), potassium (K) levels, rainfall, temperature, and humidity, to predict the optimal crop for a specific region. By leveraging these factors, the system provides accurate, data-driven crop recommendations, helping to optimize agricultural practices and enhance productivity.
+link: https://huggingface.co/spaces/Abhishekmudda/crop_recommendatio
